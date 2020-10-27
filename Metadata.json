@@ -1,0 +1,20 @@
+{
+    "Author": "Jos Lieben",
+    "ContentSize": 10158,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/tag-based-vm-automatic-startup-and-shutdown-with-dependency-rules/master/azureTagbasedAutoStartupShutdown.ps1",
+    "DownloadCount": 1388,
+    "Id": "Tag-based-VM-Automatic-f051c674",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 229,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-6-2T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script can be used as Azure Runbook (scheduled / on demand) to stop/start VMs. It uses tags in an intelligent way to automate this.You'll give your VMs a startup and shutdown tag in hh:mm format, which defines the window in which the VM should be running.Optionally, you can",
+    "Title": "Tag based VM Automatic Startup and Shutdown WITH dependency rules",
+    "UpdatedDate": "2017-6-2T00:00:00",
+    "Url": "https://github.com/azureautomation/tag-based-vm-automatic-startup-and-shutdown-with-dependency-rules",
+    "UserTags": "Microsoft Azure, shutdown, Runbook"
+}
